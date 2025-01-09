@@ -3,3 +3,5 @@
 私はマイクラなどサンドボックス系ゲームが好きなのでMOD開発しています。またWEB開発やゲーム開発をはじめとして色々研究しています。(I like sandbox games such as Mycla, so I develop mods. I am also researching web development, game development, and many other things.)
 よろしく！(Nice to meet too, bro)
 (‘O盆O)
+
+ちなみに、開発に協力していただけるとありがたいです。⭐︎

@@ -6,8 +6,8 @@
 
 ちなみに、開発に協力していただけるとありがたいです。⭐︎
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coreworldyoutube
-)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coreworldyoutube
+)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coreworldyoutube)]
 (https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coreworldyoutube)]
